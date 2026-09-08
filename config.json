@@ -1,0 +1,18 @@
+{
+  "username": "ffgloryindia",
+  "password": "@peyvDK5@_bfTfc",
+  "target_clans": [],
+  "auto_pilot": {
+    "enabled": true,
+    "poll_interval_seconds": 30,
+    "auto_restart_frozen": true,
+    "auto_refund_idle_30m": false,
+    "auto_extend_if_needed": true,
+    "auto_download_tokens": true,
+    "auto_change_bio": true,
+    "bio_interval_seconds": 3600,
+    "bot_bio": "ｆｆｇｌｏｒｙ．ｘｙｚ",
+    "max_concurrent_squads": 5
+  },
+  "tokens_dir": "accounts"
+}
